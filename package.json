@@ -1,0 +1,17 @@
+{
+  "name": "hi-ci-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "andyyou <andyyu0920@gmail.com> (http://andyyou.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
