@@ -5,7 +5,7 @@ machine:
 
 dependencies:
   override:
-    - docker build -t hi-ci-workflow
+    - docker build -t hi-ci-workflow .
 
 test:
   override:
